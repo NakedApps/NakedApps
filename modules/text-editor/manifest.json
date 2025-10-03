@@ -1,0 +1,33 @@
+{
+  "name": "text-editor",
+  "displayName": "📝 Text Editor",
+  "version": "1.0.0",
+  "description": "Advanced text editor with syntax highlighting",
+  "longDescription": "A powerful text editor with syntax highlighting for multiple programming languages, find and replace functionality, and advanced editing features.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📝",
+  "color": "#3b82f6",
+  "category": "development",
+  "permissions": [
+    "filesystem",
+    "storage",
+    "clipboard"
+  ],
+  "features": [
+    "Syntax highlighting",
+    "Find and replace",
+    "Multiple file formats",
+    "Auto-save"
+  ],
+  "keywords": [
+    "editor",
+    "text",
+    "code",
+    "syntax"
+  ],
+  "status": "stable",
+  "estimatedSize": "2.1 MB",
+  "performanceImpact": "medium"
+}

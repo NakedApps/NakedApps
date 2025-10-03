@@ -1,0 +1,34 @@
+{
+  "name": "calculator",
+  "displayName": "Calculator",
+  "version": "1.0.0",
+  "description": "Simple arithmetic calculator",
+  "longDescription": "A basic calculator for performing arithmetic operations including addition, subtraction, multiplication, and division. Features a clean interface with number pad and basic operations.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "🔢",
+  "color": "#10b981",
+  "category": "utilities",
+  "permissions": [
+    "storage",
+    "clipboard"
+  ],
+  "features": [
+    "Basic arithmetic operations",
+    "Clear display",
+    "Decimal support",
+    "Error handling"
+  ],
+  "keywords": [
+    "calculator",
+    "math",
+    "arithmetic",
+    "numbers"
+  ],
+  "status": "stable",
+  "estimatedSize": "50 KB",
+  "performanceImpact": "low"
+}
+
+

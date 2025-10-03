@@ -1,0 +1,31 @@
+{
+  "name": "unit-converter",
+  "displayName": "📏 Unit Converter",
+  "version": "1.0.0",
+  "description": "Convert between different units of measurement",
+  "longDescription": "Convert between various units of length, weight, temperature, area, volume, and more with high precision.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📏",
+  "color": "#f97316",
+  "category": "utilities",
+  "permissions": [
+    "storage"
+  ],
+  "features": [
+    "Multiple unit categories",
+    "High precision calculations",
+    "Custom unit definitions",
+    "Conversion history"
+  ],
+  "keywords": [
+    "converter",
+    "units",
+    "measurement",
+    "calculator"
+  ],
+  "status": "stable",
+  "estimatedSize": "200 KB",
+  "performanceImpact": "low"
+}

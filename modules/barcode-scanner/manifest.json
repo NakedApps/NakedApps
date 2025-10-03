@@ -1,0 +1,33 @@
+{
+  "name": "barcode-scanner",
+  "displayName": "📊 Barcode Scanner",
+  "version": "1.0.0",
+  "description": "Scan various barcode formats",
+  "longDescription": "Scan and decode various barcode formats including QR codes, UPC, EAN, and more using your camera.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📊",
+  "color": "#84cc16",
+  "category": "utilities",
+  "permissions": [
+    "camera",
+    "storage",
+    "clipboard"
+  ],
+  "features": [
+    "Multiple barcode formats",
+    "Batch scanning",
+    "History tracking",
+    "Export options"
+  ],
+  "keywords": [
+    "barcode",
+    "scanner",
+    "qr",
+    "camera"
+  ],
+  "status": "stable",
+  "estimatedSize": "1.2 MB",
+  "performanceImpact": "medium"
+}

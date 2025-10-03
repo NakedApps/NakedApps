@@ -1,0 +1,33 @@
+{
+  "name": "url-shortener",
+  "displayName": "🔗 URL Shortener",
+  "version": "1.0.0",
+  "description": "Shorten long URLs for easy sharing",
+  "longDescription": "Shorten long URLs using various URL shortening services and manage your shortened links.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "🔗",
+  "color": "#06b6d4",
+  "category": "utilities",
+  "permissions": [
+    "internet",
+    "clipboard",
+    "storage"
+  ],
+  "features": [
+    "Multiple shortening services",
+    "Custom short URLs",
+    "Link analytics",
+    "Bulk shortening"
+  ],
+  "keywords": [
+    "url",
+    "shortener",
+    "link",
+    "share"
+  ],
+  "status": "stable",
+  "estimatedSize": "300 KB",
+  "performanceImpact": "low"
+}

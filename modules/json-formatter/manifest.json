@@ -1,0 +1,32 @@
+{
+  "name": "json-formatter",
+  "displayName": "📋 JSON Formatter",
+  "version": "1.0.0",
+  "description": "Format and validate JSON data",
+  "longDescription": "Format, validate, and beautify JSON data with syntax highlighting and error detection.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📋",
+  "color": "#10b981",
+  "category": "development",
+  "permissions": [
+    "clipboard",
+    "storage"
+  ],
+  "features": [
+    "JSON validation",
+    "Syntax highlighting",
+    "Minify/beautify",
+    "Error detection"
+  ],
+  "keywords": [
+    "json",
+    "formatter",
+    "validator",
+    "developer"
+  ],
+  "status": "stable",
+  "estimatedSize": "500 KB",
+  "performanceImpact": "low"
+}

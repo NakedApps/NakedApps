@@ -1,0 +1,37 @@
+{
+  "name": "pdf-modifier",
+  "displayName": "PDF Creator",
+  "version": "1.0.0",
+  "description": "Create simple PDF with text",
+  "longDescription": "Create PDF documents from text content. Add formatted text, customize layout, and generate professional PDF files. Perfect for creating simple documents, notes, and reports without complex software.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📄",
+  "color": "#34d399",
+  "category": "productivity",
+  "permissions": [
+    "filesystem",
+    "storage",
+    "clipboard"
+  ],
+  "features": [
+    "Create PDF documents",
+    "Add text content",
+    "Basic formatting",
+    "Save to file system",
+    "No cloud upload required"
+  ],
+  "keywords": [
+    "pdf",
+    "document",
+    "creator",
+    "file",
+    "text"
+  ],
+  "status": "stable",
+  "estimatedSize": "500 KB",
+  "performanceImpact": "low"
+}
+
+

@@ -1,0 +1,37 @@
+{
+  "name": "qr-reader",
+  "displayName": "QR Code Scanner",
+  "version": "1.0.0",
+  "description": "QR code scanner using camera",
+  "longDescription": "Scan QR codes and barcodes using your device's camera. Instantly decode QR codes to access URLs, contact information, WiFi credentials, and more. Fast and accurate scanning with support for multiple formats.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📱",
+  "color": "#059669",
+  "category": "utilities",
+  "permissions": [
+    "camera",
+    "clipboard",
+    "notifications"
+  ],
+  "features": [
+    "Real-time QR code scanning",
+    "Barcode support",
+    "Instant decoding",
+    "Copy to clipboard",
+    "Camera permission management"
+  ],
+  "keywords": [
+    "qr",
+    "barcode",
+    "scanner",
+    "camera",
+    "code"
+  ],
+  "status": "stable",
+  "estimatedSize": "200 KB",
+  "performanceImpact": "medium"
+}
+
+

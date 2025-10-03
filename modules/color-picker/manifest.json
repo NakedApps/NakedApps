@@ -1,0 +1,32 @@
+{
+  "name": "color-picker",
+  "displayName": "🎨 Color Picker",
+  "version": "1.0.0",
+  "description": "Pick colors and generate color palettes",
+  "longDescription": "Pick colors from anywhere on your screen and generate beautiful color palettes with various color schemes.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "🎨",
+  "color": "#f59e0b",
+  "category": "utilities",
+  "permissions": [
+    "clipboard",
+    "storage"
+  ],
+  "features": [
+    "Screen color picker",
+    "Color palette generation",
+    "Multiple color formats",
+    "Export options"
+  ],
+  "keywords": [
+    "color",
+    "picker",
+    "palette",
+    "design"
+  ],
+  "status": "stable",
+  "estimatedSize": "800 KB",
+  "performanceImpact": "low"
+}

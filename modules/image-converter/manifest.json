@@ -1,0 +1,32 @@
+{
+  "name": "image-converter",
+  "displayName": "🖼️ Image Converter",
+  "version": "1.0.0",
+  "description": "Convert images between different formats",
+  "longDescription": "Convert images between various formats including JPEG, PNG, WebP, and more. Resize, compress, and optimize your images.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "🖼️",
+  "color": "#8b5cf6",
+  "category": "media",
+  "permissions": [
+    "filesystem",
+    "storage"
+  ],
+  "features": [
+    "Multiple format support",
+    "Batch conversion",
+    "Image resizing",
+    "Quality adjustment"
+  ],
+  "keywords": [
+    "image",
+    "converter",
+    "format",
+    "resize"
+  ],
+  "status": "stable",
+  "estimatedSize": "1.8 MB",
+  "performanceImpact": "medium"
+}

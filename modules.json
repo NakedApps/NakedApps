@@ -1,0 +1,98 @@
+[
+  {
+    "name": "calculator",
+    "description": "Simple arithmetic calculator"
+  },
+  {
+    "name": "qr-reader",
+    "description": "QR code scanner using camera"
+  },
+  {
+    "name": "pdf-modifier",
+    "description": "Create simple PDF with text"
+  },
+  {
+    "name": "permission-tester",
+    "description": "Security testing tool for permission system"
+  },
+  {
+    "name": "text-editor",
+    "description": "Advanced text editor with syntax highlighting"
+  },
+  {
+    "name": "image-converter",
+    "description": "Convert images between different formats"
+  },
+  {
+    "name": "password-generator",
+    "description": "Generate secure passwords and passphrases"
+  },
+  {
+    "name": "color-picker",
+    "description": "Pick colors and generate color palettes"
+  },
+  {
+    "name": "base64-encoder",
+    "description": "Encode and decode Base64 strings"
+  },
+  {
+    "name": "json-formatter",
+    "description": "Format and validate JSON data"
+  },
+  {
+    "name": "url-shortener",
+    "description": "Shorten long URLs for easy sharing"
+  },
+  {
+    "name": "markdown-editor",
+    "description": "Write and preview Markdown documents"
+  },
+  {
+    "name": "regex-tester",
+    "description": "Test and debug regular expressions"
+  },
+  {
+    "name": "hash-generator",
+    "description": "Generate MD5, SHA1, SHA256 hashes"
+  },
+  {
+    "name": "qr-generator",
+    "description": "Generate QR codes from text or URLs"
+  },
+  {
+    "name": "barcode-scanner",
+    "description": "Scan various barcode formats"
+  },
+  {
+    "name": "unit-converter",
+    "description": "Convert between different units of measurement"
+  },
+  {
+    "name": "time-zone-converter",
+    "description": "Convert time between different time zones"
+  },
+  {
+    "name": "lorem-ipsum-generator",
+    "description": "Generate Lorem Ipsum placeholder text"
+  },
+  {
+    "name": "uuid-generator",
+    "description": "Generate UUIDs and GUIDs"
+  },
+  {
+    "name": "ascii-art-generator",
+    "description": "Convert text to ASCII art"
+  },
+  {
+    "name": "morse-code-translator",
+    "description": "Translate text to and from Morse code"
+  },
+  {
+    "name": "binary-converter",
+    "description": "Convert between binary, decimal, hex, and octal"
+  },
+  {
+    "name": "csv-viewer",
+    "description": "View and edit CSV files"
+  }
+]

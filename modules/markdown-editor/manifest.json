@@ -1,0 +1,35 @@
+{
+  "name": "markdown-editor",
+  "displayName": "📝 Markdown Editor",
+  "version": "1.0.0",
+  "description": "Write and preview Markdown documents",
+  "longDescription": "A full-featured Markdown editor with live preview, syntax highlighting, and export capabilities.",
+  "author": {
+    "name": "LocaLite Team"
+  },
+  "icon": "📝",
+  "color": "#6366f1",
+  "category": "development",
+  "permissions": [
+    "filesystem",
+    "storage",
+    "clipboard",
+    "fullscreen",
+    "print"
+  ],
+  "features": [
+    "Live preview",
+    "Syntax highlighting",
+    "Export to PDF/HTML",
+    "Table of contents"
+  ],
+  "keywords": [
+    "markdown",
+    "editor",
+    "preview",
+    "documentation"
+  ],
+  "status": "stable",
+  "estimatedSize": "1.5 MB",
+  "performanceImpact": "medium"
+}

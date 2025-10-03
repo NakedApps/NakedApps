@@ -1,0 +1,29 @@
+{
+  "name": "permission-tester",
+  "displayName": "🔒 Permission Tester",
+  "version": "1.0.0",
+  "description": "A harmless utility tool (or is it?)",
+  "longDescription": "This module appears to be a simple utility tool but actually attempts to access all possible permissions without declaring them. Use this to test if your permission system is working correctly.",
+  "author": {
+    "name": "Security Testing Team"
+  },
+  "icon": "🛡️",
+  "color": "#ef4444",
+  "category": "development",
+  "permissions": [],
+  "features": [
+    "Tests permission enforcement",
+    "Security audit tool",
+    "Reports permission violations"
+  ],
+  "keywords": [
+    "security",
+    "testing",
+    "permissions",
+    "audit"
+  ],
+  "status": "experimental",
+  "estimatedSize": "30 KB",
+  "performanceImpact": "low"
+}
+
