@@ -26,7 +26,7 @@ const TopBar = ({ activeModuleName, onSearch, onSettingsPress, onLogoPress }: To
               ? activeModuleName.replace('-', ' ').split(' ').map(w => 
                   w.charAt(0).toUpperCase() + w.slice(1)
                 ).join(' ')
-              : 'LocaLite'}
+              : 'NakedApps'}
           </Text>
         </TouchableOpacity>
       </View>

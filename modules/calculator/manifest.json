@@ -5,7 +5,7 @@
   "description": "Simple arithmetic calculator",
   "longDescription": "A basic calculator for performing arithmetic operations including addition, subtraction, multiplication, and division. Features a clean interface with number pad and basic operations.",
   "author": {
-    "name": "LocaLite Team"
+    "name": "NakedApps Team"
   },
   "icon": "🔢",
   "color": "#10b981",

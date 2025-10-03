@@ -5,7 +5,7 @@
   "description": "Format and validate JSON data",
   "longDescription": "Format, validate, and beautify JSON data with syntax highlighting and error detection.",
   "author": {
-    "name": "LocaLite Team"
+    "name": "NakedApps Team"
   },
   "icon": "📋",
   "color": "#10b981",

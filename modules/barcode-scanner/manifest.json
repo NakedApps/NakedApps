@@ -5,7 +5,7 @@
   "description": "Scan various barcode formats",
   "longDescription": "Scan and decode various barcode formats including QR codes, UPC, EAN, and more using your camera.",
   "author": {
-    "name": "LocaLite Team"
+    "name": "NakedApps Team"
   },
   "icon": "📊",
   "color": "#84cc16",
