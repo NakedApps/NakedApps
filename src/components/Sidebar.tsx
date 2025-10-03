@@ -17,7 +17,7 @@ const Sidebar = ({ modules, activeModule, onModuleSelect, onMarketPlacePress }: 
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.logo}>🌟 LocaLite</Text>
+        <Text style={styles.logo}>🌟 NakedApps</Text>
         <Text style={styles.subtitle}>Your Local Toolkit</Text>
       </View>
       {onMarketPlacePress && (

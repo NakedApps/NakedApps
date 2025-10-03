@@ -5,7 +5,7 @@
   "description": "QR code scanner using camera",
   "longDescription": "Scan QR codes and barcodes using your device's camera. Instantly decode QR codes to access URLs, contact information, WiFi credentials, and more. Fast and accurate scanning with support for multiple formats.",
   "author": {
-    "name": "LocaLite Team"
+    "name": "NakedApps Team"
   },
   "icon": "📱",
   "color": "#059669",

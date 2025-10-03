@@ -1,4 +1,4 @@
-# LocaLite
+# NakedApps
 
 A modular, cross-platform app for local tasks, reducing internet dependencies.
 

@@ -5,7 +5,7 @@
   "description": "Generate secure passwords and passphrases",
   "longDescription": "Generate cryptographically secure passwords and memorable passphrases with customizable length and character sets.",
   "author": {
-    "name": "LocaLite Team"
+    "name": "NakedApps Team"
   },
   "icon": "🔐",
   "color": "#ef4444",

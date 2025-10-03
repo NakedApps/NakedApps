@@ -59,7 +59,7 @@ const Home = ({ navigation }: { navigation: HomeScreenNavigationProp }) => {
     >
       <View style={styles.container}>
         <View style={styles.welcomeSection}>
-          <Text style={styles.welcomeTitle}>Welcome to LocaLite! 👋</Text>
+          <Text style={styles.welcomeTitle}>Welcome to NakedApps! 👋</Text>
           <Text style={styles.welcomeText}>
             Your local toolkit for everyday tasks. Select a module from the sidebar to get started.
           </Text>
